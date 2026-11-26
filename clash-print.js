@@ -22,4 +22,5 @@ if (typeof body === "string") {
 console.log("==================================");
 
 // 不修改响应，原样返回
+console.log("脚本已执行");
 $done({});
